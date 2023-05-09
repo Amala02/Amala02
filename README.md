@@ -4,16 +4,17 @@
  </div>
  
   ---
-  ###This is Amala here! 
-  :speech_balloon: Front End Development
-  :speech_balloon: Machine Learning-NLP, Image Classification
-  :speech_balloon:SQL, currently learning MongoDB
+  ### This is Amala here! ###
   ---
-  ##Languages:
-  :speech_balloon: Python
-  :speech_balloon: Java
-  :speech_balloon:JS
-  :speech_balloon: C
-  :speech_balloon: Itching to learn C#
- </div>
+  - :speech_balloon: Front End Development
+  - :speech_balloon: Machine Learning-NLP, Image Classification
+  - :speech_balloon:SQL, currently learning MongoDB
+  ---
+  ### Languages: ###
+  - :speech_balloon: Python
+  - :speech_balloon: Java
+  - :speech_balloon:JS
+  - :speech_balloon: C
+  - :speech_balloon: Itching to learn C#
+
  
