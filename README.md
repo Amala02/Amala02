@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hello World :D</h1>
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif">
+ </div>
+ 
   ---
   ###This is Amala here! 
   :speech_balloon: Front End Development
