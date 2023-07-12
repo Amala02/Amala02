@@ -1,20 +1,24 @@
-<div align="center">
-  <h1>Hello World :D</h1>
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif">
- </div>
+
+  <h1>Hey there :D</h1>
+
+
  
   ---
-  ### This is Amala here! ###
+  ## This is Amala here! ##
   ---
-  - :speech_balloon: Front End Development
-  - :speech_balloon: Machine Learning-NLP, Image Classification
-  - :speech_balloon:SQL, currently learning MongoDB
+  ### Skills: ###
+:wavy_dash: Front End Development [Reactjs, HTML5, CSS]
+  :wavy_dash: Machine Learning, DL: NLP, Computer Vision
+  :wavy_dash:  Data Analysis, SQL
   ---
   ### Languages: ###
-  - :speech_balloon: Python
-  - :speech_balloon: Java
-  - :speech_balloon:JS
-  - :speech_balloon: C
-  - :speech_balloon: Itching to learn C#
+  :wavy_dash: Python
+  :wavy_dash: Java
+  :wavy_dash:JS
+  :wavy_dash: C
 
+---
+_visit my linkedin page to know more_
+---
+_for project details, visit my repos_
  
