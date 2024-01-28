@@ -15,10 +15,12 @@
 
   ---
 
-Let's connect: https://www.linkedin.com/in/amala-shwetah-louis-kishore-a316b323b/
+Let's connect! 
+- [LinkedIn](https://www.linkedin.com/in/amala-shwetah-louis-kishore-a316b323b/)
+ - [Want to visit my portfolio instead? check this one out!](https://shard-land-83d.notion.site/Hi-there-67294616bd874bbebce06654ab67c440)
 ---
 ## Popular Repos:
-- [EmoTer]: Detect emotions of users through texts and recommends songs+ books for the same. (https://github.com/Amala02/emoter_react)
-- [Cancer-Dect]: Computer vision model made on YoLov8 for cancerous cell detections.(https://github.com/Amala02/Cancer-Dect)
-- [Cricket-Pose-estimator]: PoseNet model made for identifying cricket poses. (https://github.com/Amala02/pose_estimator_cricket)
+- [EmoTer](https://github.com/Amala02/emoter_react): Detect emotions of users through texts and recommends songs+ books for the same. 
+- [Cancer-Dect](https://github.com/Amala02/Cancer-Dect): Computer vision model made on YoLov8 for cancerous cell detections.
+- [Cricket-Pose-estimator](https://github.com/Amala02/pose_estimator_cricket): PoseNet model made for identifying cricket poses. 
  
