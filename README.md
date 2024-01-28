@@ -15,7 +15,7 @@
 
   ---
 
-Let's connect: [https://www.linkedin.com/in/amala-shwetah-louis-kishore-a316b323b/]
+Let's connect: https://www.linkedin.com/in/amala-shwetah-louis-kishore-a316b323b/
 ---
 ## Popular Repos:
 - [EmoTer]: Detect emotions of users through texts and recommends songs+ books for the same. (https://github.com/Amala02/emoter_react)
