@@ -4,7 +4,7 @@
 
  
   ---
-   I'm an undergrad CSE student thats working her way with AI and Data Science.| Currently fumbling with GenAI models|
+   CS grad thats working her way with AI and Data Science.| Currently fumbling with GenAI models|
   ---
   ## Skills:
   - languages: Fluent in Python, Java and C, JS, php
